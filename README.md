@@ -19,6 +19,7 @@ This repository is meant to show the public thinking behind the portfolio. It is
 - Runbook Composer: practical checklist drafting for operational tasks.
 - Probability Signal Simulator: conditional probability and decision-quality exhibit.
 - Chaos Divergence Explorer: deterministic-system divergence visualization.
+- Security Posture Notes: public notes on the site's static-first security model, local-tool privacy boundary, and future hardening work.
 
 ## Privacy Boundary
 
