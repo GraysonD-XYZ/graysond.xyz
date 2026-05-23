@@ -7,4 +7,6 @@ summary: "Notes from infrastructure, endpoint support, manufacturing environment
 accent: "amber"
 ---
 
-These notes can hold troubleshooting patterns, scripts, rollout checklists, failure reviews, and reusable technical guidance from real IT and software work. The goal is useful detail without exposing private systems or employer-specific information.
+Systems notes translate field IT and software work into reusable operating patterns: troubleshooting, scripts, rollout checklists, failure reviews, and practical guidance.
+
+The useful details are preserved without exposing private systems, customer data, employer-specific information, or sensitive operational context.
