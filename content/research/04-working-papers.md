@@ -7,4 +7,6 @@ summary: "A home for longer writeups that explain the reasoning behind products,
 accent: "white"
 ---
 
-This section can grow into concise papers, reproducible notebooks, diagrams, and technical essays. Good candidates include probability notes, cryptography primers, infrastructure designs, product postmortems, and research behind future ventures.
+Longer writeups collect the reasoning behind products, tools, and technical decisions: probability notes, cryptography primers, infrastructure designs, product postmortems, and research behind future ventures.
+
+The goal is to make the work inspectable without turning every project into a full case study before it has earned one.
