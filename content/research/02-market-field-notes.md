@@ -7,7 +7,9 @@ summary: "Practical notes on pricing inefficiencies, expected value, analytics, 
 accent: "green"
 ---
 
-Market work belongs here as research and operations: looking for pricing gaps, testing whether a visible edge survives fees and timing, and building controls around variance, liquidity, custody, and execution risk.
+Market intelligence is treated as an operating discipline: identify pricing gaps, test whether a visible edge survives fees and timing, and build controls around variance, liquidity, custody, and execution risk.
+
+The point is decision quality before exposure. Good research separates signal from noise, expected value from wishful thinking, and process discipline from market hype.
 
 - Pricing inefficiency and expected-value research
 - Spread tracking and practical market observation
