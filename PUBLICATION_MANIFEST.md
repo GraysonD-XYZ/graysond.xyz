@@ -4,7 +4,7 @@
 
 Target repository: `GraysonD-XYZ/graysond.xyz`
 
-Purpose: curated public portfolio archive for tools, research, field notes, and implementation extracts that are already suitable for public readers on `graysond.xyz`.
+Purpose: curated public portfolio archive for tools, research, field notes, and public references that are already suitable for public readers on `graysond.xyz`.
 
 ## Included Files
 
@@ -15,9 +15,7 @@ Purpose: curated public portfolio archive for tools, research, field notes, and 
 - `PUBLICATION_MANIFEST.md`
 - `content/tools/*.md`
 - `content/research/*.md`
-- `public/research/overlay-problem-crypto.pdf`
-- `implementation/portfolio-tools-research.js`
-- `implementation/portfolio-tools-research.css`
+- `public/research/README.md`
 
 ## Excluded Files
 
@@ -25,6 +23,7 @@ Purpose: curated public portfolio archive for tools, research, field notes, and 
 - `.wrangler/`
 - `wrangler.jsonc`
 - `dist/`
+- full deployment source extracts
 - `node_modules/`
 - `package-lock.json`
 - `qa/`
@@ -35,7 +34,7 @@ Purpose: curated public portfolio archive for tools, research, field notes, and 
 
 ## Public-Safety Notes
 
-- The Google Analytics measurement ID is present in the implementation extract because it is already public in the shipped website source.
+- The live Overlay Problem PDF is referenced from the portfolio rather than mirrored as a binary file in this initial GitHub pass.
 - The public contact email and public LinkedIn/GitHub links are safe to publish because they are visible on the portfolio.
 - The research package keeps the non-advice disclaimer for market and crypto-adjacent material.
 - The CipherG item is a planned public operating-notes placeholder, not an active website link.
