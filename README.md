@@ -1,16 +1,14 @@
 # graysond.xyz Public Portfolio Archive
 
-Public portfolio archive for selected tools, research notes, field notes, and interactive source from [graysond.xyz](https://graysond.xyz/).
+Public portfolio archive for selected tools, research notes, field notes, and public references from [graysond.xyz](https://graysond.xyz/).
 
-This repository is meant to show the public thinking and browser-local implementation behind the portfolio. It is a curated archive, not a full deployment mirror.
+This repository is meant to show the public thinking behind the portfolio. It is a curated archive, not a full deployment mirror.
 
 ## Included
 
 - `content/tools/` - public descriptions for the browser-local tools.
 - `content/research/` - public research notes, field-note placeholders, and paper abstracts.
-- `public/research/overlay-problem-crypto.pdf` - public research PDF already linked from the portfolio.
-- `implementation/portfolio-tools-research.js` - the JavaScript source extract that powers the toolbench and research interactions on the portfolio.
-- `implementation/portfolio-tools-research.css` - the CSS source extract for the tool and research UI.
+- `public/research/README.md` - canonical research-file references, including the live Overlay Problem PDF.
 
 ## Tool Areas
 
@@ -35,6 +33,7 @@ Market, crypto, probability, and research material here is portfolio context onl
 This public package intentionally excludes:
 
 - Cloudflare deployment config and tokens.
+- Full deployment source and generated assets.
 - Local QA screenshots.
 - Generated `dist/` assets.
 - Local agent/operator docs.
