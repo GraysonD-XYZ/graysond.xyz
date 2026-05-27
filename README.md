@@ -14,16 +14,18 @@ This repository is meant to show the public thinking behind the portfolio. It is
 
 - PromptPack Studio: reusable prompt templates with variables and standalone HTML export.
 - Hash Inspector: local SHA digest generation.
+- Passphrase Generator: local memorable passphrase generation with a verification card.
 - Passphrase Review: local passphrase shape checks.
 - CIDR Inspector: IPv4 CIDR range decoding.
 - Runbook Composer: practical checklist drafting for operational tasks.
+- Structure Zip Builder: local folder/file scaffold planning and ZIP export.
 - Probability Signal Simulator: conditional probability and decision-quality exhibit.
 - Chaos Divergence Explorer: deterministic-system divergence visualization.
 - Security Posture Notes: public notes on the site's static-first security model, local-tool privacy boundary, and future hardening work.
 
 ## Privacy Boundary
 
-The tools are designed to run locally in the browser. User-entered tool inputs such as prompts, passphrases, hashes, CIDR values, and runbook notes should not be transmitted to third-party services.
+The tools are designed to run locally in the browser. User-entered tool inputs such as prompts, passphrases, hashes, CIDR values, folder structures, and runbook notes should not be transmitted to third-party services.
 
 ## Non-Advice Notice
 
