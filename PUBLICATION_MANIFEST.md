@@ -31,6 +31,7 @@ Purpose: curated public portfolio archive for tools, research, field notes, and 
 - `docs/analytics-seo.md`
 - local preview logs
 - Cloudflare account identifiers and deployment guidance
+- full implementation source for browser tools unless intentionally released
 
 ## Public-Safety Notes
 
@@ -38,3 +39,4 @@ Purpose: curated public portfolio archive for tools, research, field notes, and 
 - The public contact email and public LinkedIn/GitHub links are safe to publish because they are visible on the portfolio.
 - The research package keeps the non-advice disclaimer for market and crypto-adjacent material.
 - The CipherG item is a planned public operating-notes placeholder, not an active website link.
+- The public archive should track public descriptions and public research. The full source repository can remain private or move public later after an intentional review.
